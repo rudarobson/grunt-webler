@@ -1,0 +1,10 @@
+{
+  "name": "grunt-webler",
+  "version": "0.0.1",
+  "description": "webler for grunt",
+  "author": "rudarobson",
+  "license": "MIT",
+  "dependencies": {
+    "webler": "latest"
+  }
+}
